@@ -1,4 +1,4 @@
-# Ai-Project-Management
+# Face-Mask-Detection Project
 ## Project Introduction
 There are no efficient face mask detection applications in the midst of the ongoing COVID-19 pandemic, which is now in high demand for transportation means, densely populated areas, residential districts, large-scale manufacturers, and other enterprises to ensure safety. The lack of large datasets of 'with mask' images has made this task time-consuming and difficult. 
 
