@@ -3,6 +3,6 @@ THIS NOTEBOOK CONTAINS THE TRAINING USING INCEPTION V3 MODEL WITH A VALIDATION A
 
 HERE ARE THE VISUALISATIONS:
 
-alt text
+![image](https://user-images.githubusercontent.com/121425344/211510210-c77ee922-1d2d-4b73-85ce-96056c72a473.png)
 
-alt text
+![image](https://user-images.githubusercontent.com/121425344/211510264-3cbbf2c5-45b4-49d7-be5c-ca3b2a75decc.png)
